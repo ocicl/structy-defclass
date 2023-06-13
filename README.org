@@ -1,0 +1,10 @@
+* structy-defclass
+
+Make classes like structs
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cbaggers/structy-defclass.git   |
+| commit  | fe2ca1a  |
+| systems | structy-defclass |
+|---------+-------------------------------------------|
+
