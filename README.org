@@ -8,3 +8,4 @@ Make classes like structs
 | systems | structy-defclass |
 |---------+-------------------------------------------|
 
+ 
